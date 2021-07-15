@@ -1,3 +1,6 @@
+#EJEMPLO 19
+#Nombre: Carlos Homero Vacacela Vélez
+#Aula: Software A1
 
 class Oredenar:
     def __init__(self,lista):
